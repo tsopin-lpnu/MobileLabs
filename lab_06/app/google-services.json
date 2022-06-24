@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760475977724",
+    "project_id": "test-note-87367",
+    "storage_bucket": "test-note-87367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760475977724:android:f72c8354e14e2bdeb91479",
+        "android_client_info": {
+          "package_name": "ua.tsopin.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760475977724-1e4h4sqvc4pakbdpoumntq77968l5uqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBZ_qMUeFfafygAejjDh-Xg7-cQ5J7fyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760475977724-1e4h4sqvc4pakbdpoumntq77968l5uqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

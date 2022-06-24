@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.184" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable-v24/ic_profile_white.xml" value="0.286" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/background_login.xml" value="0.3675" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/ic_filter_1.xml" value="0.1625" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/ic_filter_2.xml" value="0.1625" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/ic_filter_3.xml" value="0.1625" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/ic_filter_4.xml" value="0.1625" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/ic_filter_5.xml" value="0.1625" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/ic_filter_6.xml" value="0.1625" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/ic_filter_all.xml" value="0.1105" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/ic_launcher_background.xml" value="0.184" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/ic_lock_person_96.xml" value="0.3675" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/ic_lock_white.xml" value="0.286" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/ic_plus.xml" value="0.3675" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/ic_plus_white.xml" value="0.3675" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/ic_profile.xml" value="0.286" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/ic_signup_white_96.xml" value="0.3675" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/login_background.xml" value="0.224" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/shape_button_login.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/shape_button_signup.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/drawable/shape_editext.xml" value="0.228" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/layout/activity_main.xml" value="0.18888888888888888" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/layout/activity_test.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/layout/fragment_bottomsheet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/layout/fragment_edit.xml" value="0.25" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/layout/fragment_item_list_dialog_list_dialog.xml" value="0.17831813576494426" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/layout/fragment_item_list_dialog_list_dialog_item.xml" value="0.17831813576494426" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/layout/fragment_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/layout/fragment_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/layout/fragment_signup.xml" value="0.34629629629629627" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/layout/note_item.xml" value="0.365625" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/menu/appbar_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/menu/bottom_menu.xml" value="0.34739583333333335" />
+        <entry key="..\:/Projects/Android/test/app/src/main/res/menu/filter_menu.xml" value="0.29259259259259257" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
